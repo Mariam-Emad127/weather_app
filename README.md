@@ -1,4 +1,6 @@
 # weather_application
+![Screenshot_1697765548](https://github.com/Mariam-Emad127/weather_app/assets/93050116/ff179aca-1764-48f9-98e8-6aad3f3e9946)
+![Screenshot_1697765562](https://github.com/Mariam-Emad127/weather_app/assets/93050116/f88a3e18-a969-41a6-9b96-d1c0e630f518)
 
 A new Flutter project.
 
