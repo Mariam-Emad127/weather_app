@@ -25,7 +25,6 @@ class searchView extends StatelessWidget {
               var getWeatherCubit = BlocProvider.of<GetWeatherCubit>(context);
               getWeatherCubit.getWeather(cityName: value);
               Navigator.pop(context);
-              //log(weatherModel.cityname);
             },
             decoration: InputDecoration(
               contentPadding:
