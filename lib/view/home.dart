@@ -8,10 +8,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weather_application/widget/weather_info_body.dart';
 
 class HomeView extends StatelessWidget {
-  const HomeView({Key? key,
-    //required this.weather
-  }) : super(key: key);
-//final WeatherModel weather;
+  const HomeView({Key? key}) : super(key: key);
+ 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
